@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently in the second year of my MPhil degree at the Chinese University of Hong Kong, Shenzhen. My supervisors are <a href="https://sse.cuhk.edu.cn/faculty/jidongxu">Professor Ji Dongxu</a> and <a href="https://harrybinary.github.io/">Dr. Wan Shuaibin</a>. I completed my bachelor's degree at Harbin Institute of Technology and participated in a one-year joint training program at the Chinese Academy of Sciences. At the same time, I am also a contracted writer for Zhihu Columns and Jinjiang Literature Website.
 
-My research interests include text generation and multi-scale agent systems. I will periodically update my dynamics here and share my experience in transferring major. I welcome any form of collaboration. Please feel free to contact my email: liqianqian200007@163.com. I will reply within 3 working days.
+My research interests include text generation and multi-scale agent systems. I will periodically update my dynamics here and share my experience in transferring major. I welcome any form of collaboration. Please feel free to contact my email: 223015122@link.cuhk.edu.cn. I will reply within 3 working days.
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 We developed a Snake game that can automatically choose the optimal strategy to complete the levels, based on reinforcement learning methods. 
