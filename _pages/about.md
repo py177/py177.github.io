@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently in the second year of my MPhil degree at the Chinese University of Hong Kong, Shenzhen. My supervisors are <a href="https://sse.cuhk.edu.cn/faculty/jidongxu">Professor Ji Dongxu</a> and <a href="https://harrybinary.github.io/">Dr. Wan Shuaibin</a>. I completed my bachelor's degree at Harbin Institute of Technology and participated in a one-year joint training program at the Chinese Academy of Sciences.
 
-My research interests include text generation and multi-scale agent systems.
+My research interests include text generation and multi-scale agent systems. I will periodically update my dynamics and achievements here and share my experience in transferring majors. I welcome any form of collaboration. Please feel free to contact my email: liqianqian200007@163.com. I will reply within 3 working days.
 
 
 # 🔥 News
