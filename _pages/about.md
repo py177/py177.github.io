@@ -40,3 +40,8 @@ My research interests include text generation and multi-scale agent systems. I w
 - *2022.01 - 2022.02*, Information Technology Intern, China Construction Bank.
 - *2020.09 - 2021.10*, New Media Operations Intern, Weihai Evening News Media Co., Ltd.
 - *2019.03 - 2020.06*, Copywriting Planner Intern, NetEase News.
+
+- # 🎖 Honors and Awards
+- Excellent graduation thesis, 2022
+- Second Class Merit scholarship, 2022
+  
