@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently in the second year of my MPhil degree at the Chinese University of Hong Kong, Shenzhen. My supervisors are <a href="https://sse.cuhk.edu.cn/faculty/jidongxu">Professor Ji Dongxu</a> and <a href="https://harrybinary.github.io/">Dr. Wan Shuaibin</a>. I completed my bachelor's degree at Harbin Institute of Technology and participated in a one-year joint training program at the Chinese Academy of Sciences. At the same time, I am also a contracted writer for Zhihu Columns and Jinjiang Literature Website.
+I am currently in the second year of my MPhil degree at the Chinese University of Hong Kong, Shenzhen. My supervisors are <a href="https://sse.cuhk.edu.cn/faculty/jidongxu">Professor Ji Dongxu</a> and <a href="https://harrybinary.github.io/">Dr. Wan Shuaibin</a>. I completed my bachelor's degree at the Harbin Institute of Technology and participated in a one-year joint training program at the Chinese Academy of Sciences. At the same time, I am also a contracted writer for Zhihu Columns and Jinjiang Literature Website.
 
 My research interests include text generation and multi-scale agent systems. I will periodically update my dynamics here and share my experience in transferring major. I welcome any form of collaboration. Please feel free to contact my email: 223015122@link.cuhk.edu.cn. I will reply within 3 working days.
 
@@ -26,8 +26,9 @@ My research interests include text generation and multi-scale agent systems. I w
 - *2024.07*: &nbsp;🎉🎉 We used LangChain to complete the construction of a cross-platform text generation proxy. 
 
 # 📖 Educations
-- *2023.09 - 2025.02 (now)*, Mphil student in Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen. 
-- *2018.09 - 2022.06*, B.E. in the Harbin Institute of Technology. 
+- *2023.09 - 2025.02 (now)*, Mphil student in Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen.
+- *2021.09 - 2022.06*, joint-training B.E., The Chinese Academy of Sciences. 
+- *2018.09 - 2022.06*, B.E., The Harbin Institute of Technology. 
 
 # 📝 Publications 
 **Qianqian LI**, shuaibin Wan, Haoming LI, Dongxu JI "Prediction of geothermal heat flow using machine learning with sparse geological data"
@@ -41,7 +42,7 @@ My research interests include text generation and multi-scale agent systems. I w
 - *2020.09 - 2021.10*, New Media Operations Intern, Weihai Evening News Media Co., Ltd.
 - *2019.03 - 2020.06*, Copywriting Planner Intern, NetEase News.
 
-- # 🎖 Honors and Awards
+# 🎖 Honors and Awards
 - Excellent graduation thesis, 2022
 - Second Class Merit scholarship, 2022
   
