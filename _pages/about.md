@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently in the second year of my MPhil degree at the Chinese University of Hong Kong, Shenzhen. My supervisors are <a href="https://sse.cuhk.edu.cn/faculty/jidongxu">Professor Ji Dongxu</a> and <a href="https://harrybinary.github.io/">Dr. Wan Shuaibi</a>. I completed my bachelor's degree at Harbin Institute of Technology and participated in a one-year joint training program at the Chinese Academy of Sciences.
+I am currently in the second year of my MPhil degree at the Chinese University of Hong Kong, Shenzhen. My supervisors are <a href="https://sse.cuhk.edu.cn/faculty/jidongxu">Professor Ji Dongxu</a> and <a href="https://harrybinary.github.io/">Dr. Wan Shuaibin</a>. I completed my bachelor's degree at Harbin Institute of Technology and participated in a one-year joint training program at the Chinese Academy of Sciences.
 
 My research interests include text generation and multi-scale agent systems.
 
