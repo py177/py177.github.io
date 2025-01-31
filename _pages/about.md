@@ -37,6 +37,6 @@ My research interests include text generation and multi-scale agent systems. I w
 - *2023.10 - 2023.12*, Computer Vision Algorithm Intern, Megvii Technology Co., Ltd.
 - *2023.01 - 2023.09*, Machine Learning Algorithm Intern, Hunan Jinbu Zhirong Information Technology Co., Ltd.
 - *2022.09 - 2022.12*, Research Assistant, Harbin Institute of Technology.
-- *2022.01 - 2022.02*, Information Technology Specialist, China Construction Bank.
-- *2020.09 - 2021.10*, New Media Operations, Weihai Evening News Media Co., Ltd.
-- *2019.03 - 2020.06*, Copywriting Planner Specialist, NetEase News.
+- *2022.01 - 2022.02*, Information Technology Intern, China Construction Bank.
+- *2020.09 - 2021.10*, New Media Operations Intern, Weihai Evening News Media Co., Ltd.
+- *2019.03 - 2020.06*, Copywriting Planner Intern, NetEase News.
