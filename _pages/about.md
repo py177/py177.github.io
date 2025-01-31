@@ -26,7 +26,7 @@ My research interests include text generation and multi-scale agent systems. I w
 - *2024.07*: &nbsp;🎉🎉 We used LangChain to complete the construction of a cross-platform text generation proxy. 
 
 # 📖 Educations
-- *2023.09 - 2025.02 (now)*, Mphil student in Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen.
+- *2023.09 - 2025.02 (now)*, Mphil in Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen.
 - *2021.09 - 2022.06*, joint-training B.E., The Chinese Academy of Sciences. 
 - *2018.09 - 2022.06*, B.E., The Harbin Institute of Technology. 
 
