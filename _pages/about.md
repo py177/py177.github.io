@@ -34,8 +34,8 @@ My research interests include text generation and multi-scale agent systems. I w
 **Qianqian LI**, shuaibin Wan, Haoming LI, Dongxu JI "Prediction of geothermal heat flow using machine learning with sparse geological data"
 
 # 💻 Internships
-- *2024.01 - 2024.02（now）*, Large Language Model Application Intern, Nio Inc.
-- *2023.10 - 2023.12*, Computer Vision Algorithm Intern, Megvii Technology Co., Ltd.
+- *2025.01 - 2025.02（now）*, Large Language Model Application Intern, Nio Inc.
+- *2024.10 - 2024.12*, Computer Vision Algorithm Intern, Megvii Technology Co., Ltd.
 - *2023.01 - 2023.09*, Machine Learning Algorithm Intern, Hunan Jinbu Zhirong Information Technology Co., Ltd.
 - *2022.09 - 2022.12*, Research Assistant, Harbin Institute of Technology.
 - *2022.01 - 2022.02*, Information Technology Intern, China Construction Bank.
